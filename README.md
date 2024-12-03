@@ -25,3 +25,6 @@ MiSis es una solución SaaS modular diseñada para optimizar la gestión empresa
 ├── .gitignore       # Exclusiones estándar
 ├── README.md        # Documentación inicial del proyecto
 └── LICENSE          # Licencia personalizada
+
+## Derechos Reservados.
+```
